@@ -1,0 +1,7 @@
+streamlit>=1.36
+mistralai>=1.0
+pdfplumber
+Pillow
+plyer
+APScheduler>=3.10
+python-dotenv
